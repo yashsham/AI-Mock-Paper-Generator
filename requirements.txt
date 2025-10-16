@@ -1,0 +1,9 @@
+crewai 
+langchain-google-genai 
+streamlit 
+fastmcp 
+python-dotenv
+pypdf 
+langchain-chroma
+langchain-community
+markdown-pdf

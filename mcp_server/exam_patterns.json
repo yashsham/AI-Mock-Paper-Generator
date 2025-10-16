@@ -1,0 +1,87 @@
+{
+  "SSC CGL Tier 1": {
+    "exam_name": "SSC CGL Tier 1",
+    "pattern": [
+      {
+        "subject": "General Intelligence & Reasoning",
+        "questions": 25,
+        "marks_per_question": 2
+      },
+      {
+        "subject": "General Awareness",
+        "questions": 25,
+        "marks_per_question": 2
+      },
+      {
+        "subject": "Quantitative Aptitude",
+        "questions": 25,
+        "marks_per_question": 2
+      },
+      {
+        "subject": "English Comprehension",
+        "questions": 25,
+        "marks_per_question": 2
+      }
+    ]
+  },
+  "NDA": {
+    "exam_name": "NDA (National Defence Academy)",
+    "pattern": [
+      {
+        "subject": "Mathematics",
+        "questions": 120,
+        "marks_per_question": 2.5
+      },
+      {
+        "subject": "General Ability Test (Part A: English)",
+        "questions": 50,
+        "marks_per_question": 4
+      },
+      {
+        "subject": "General Ability Test (Part B: General Knowledge)",
+        "questions": 100,
+        "marks_per_question": 4
+      }
+    ]
+  },
+  "CDS": {
+    "exam_name": "CDS (Combined Defence Services)",
+    "pattern": [
+      {
+        "subject": "English",
+        "questions": 120,
+        "marks_per_question": 0.83
+      },
+      {
+        "subject": "General Knowledge",
+        "questions": 120,
+        "marks_per_question": 0.83
+      },
+      {
+        "subject": "Elementary Mathematics",
+        "questions": 100,
+        "marks_per_question": 1
+      }
+    ]
+  },
+  "RRB NTPC CBT 1": {
+    "exam_name": "RRB NTPC Stage 1 CBT",
+    "pattern": [
+      {
+        "subject": "Mathematics",
+        "questions": 30,
+        "marks_per_question": 1
+      },
+      {
+        "subject": "General Intelligence and Reasoning",
+        "questions": 30,
+        "marks_per_question": 1
+      },
+      {
+        "subject": "General Awareness",
+        "questions": 40,
+        "marks_per_question": 1
+      }
+    ]
+  }
+}
